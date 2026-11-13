@@ -1,0 +1,4 @@
+interface:
+  display_name: "QA Bug Report"
+  short_description: "Chuẩn hóa bug report có thể reproduce và có bằng chứng"
+  default_prompt: "Chuyển thông tin lỗi được cung cấp thành bug report chuẩn, không suy đoán root cause."

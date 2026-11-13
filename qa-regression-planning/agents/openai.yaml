@@ -1,0 +1,4 @@
+interface:
+  display_name: "QA Regression Planning"
+  short_description: "Lập regression scope theo change impact và rủi ro"
+  default_prompt: "Phân tích thay đổi và lập regression plan theo rủi ro, có out-of-scope rõ ràng."

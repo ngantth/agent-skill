@@ -1,0 +1,4 @@
+interface:
+  display_name: "QA Test Case Design"
+  short_description: "Tạo test case và coverage matrix có traceability"
+  default_prompt: "Tạo bộ manual test case từ requirement, bao gồm positive, negative và edge case phù hợp."

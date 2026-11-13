@@ -1,0 +1,4 @@
+interface:
+  display_name: "QA Requirement Analysis"
+  short_description: "Tìm requirement mơ hồ, mâu thuẫn và thiếu AC"
+  default_prompt: "Phân tích requirement dưới góc nhìn QA, tách điểm đã xác nhận và điểm cần confirm."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "QA Test Case Review"
+  short_description: "Tìm coverage gap, duplicate và expected result mơ hồ"
+  default_prompt: "Review bộ test case được cung cấp và liệt kê findings theo severity, có bằng chứng."

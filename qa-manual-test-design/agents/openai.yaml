@@ -1,0 +1,3 @@
+interface:
+  display_name: "QA Manual Test Design"
+  short_description: "Thiết kế, review và tinh gọn test case manual"
